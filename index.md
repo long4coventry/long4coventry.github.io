@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Long is currently a research fellow with Center for Intelligent Healthcare, Coventry University. Before joining Coventry, he was a Postdoc researcher in UBDC, University of Glasgow. His research interests include Social Media Analysis, Digital Health, Text Mining, and Smart Cities. Long has developed a good reputation for his research on smart city, specifically within the domains of traffic forcasting. Funded by major funding bodies in the UK and China such as ESRC and NSFC, he is among the pioneering researchers who introduce the novel mechanisms to optimize traffic forcasting – a fundamental research issue and a maker or breaker in smart city. Long has achieved a number of top conference and journal publications (e.g,  WWW, SIGIR, WSDM, CIKM, Computer Journal, Intelligent Information Systems, and so forth). The results have been validated extensively using real-world data showing superior performance.  Longalso serves for the journal editorial board such as computer journal and IEEE Transactions on Computational Social Systems, etc., and PC members of multiple top international conferences (e.g.,  AAAI, CIKM, ECIR, etc.)
